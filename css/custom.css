@@ -1,0 +1,24 @@
+/*
+Template Name: LaunchPage
+Author URI: https://themeforest.net/user/epic-themes
+Author Name: Epic Themes
+Version: 1.0
+*/
+.navbar {
+   	padding-top: 0px;
+    padding-bottom: 0px;
+}
+.partners img.partners {
+    opacity: 1;
+    margin: 10px 15px;
+    max-height: 155px;
+}
+.partners-section {
+    padding: 0px 0 0px 0;
+}
+.main-services.green i {
+    background-color: #005685;
+}
+.section-bg-overlay {
+    opacity: 0.75;
+}	
